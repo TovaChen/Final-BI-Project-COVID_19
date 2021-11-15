@@ -7,12 +7,11 @@ This interactive feature aggregates data from the Johns Hopkins University Cente
 Report Overview:
 
 This report, Covid-19-BI-Project is published on a daily basis. It relies entirely on open-source data; links to data sources are available on this page. As new data sources become available and new perspectives developed to understand the pandemic, the report will continue to evolve. It is a work in progress. Any ideas or suggestions, as well as comments on functionality, are welcomed. The report is a personal endeavor and not associated with any business or public entity. Because of the frequency of data updated, they may not reflect the exact numbers reported by governments organizations. Data updated through October 8,2021.
-![image](https://user-images.githubusercontent.com/90701842/141803298-078a3725-37b7-419c-a382-8fec1368ba03.png)
-
 
 Accessing the Report:
 
 The report is viewable on Microsoft's Power BI where the PBIX is also available for download.
+![image](https://user-images.githubusercontent.com/90701842/141803298-078a3725-37b7-419c-a382-8fec1368ba03.png)
 Inclusion of these data sources enables a number of informative calculations, such as Daily Cases, Dayly Deaths and the Number of Hospital Beds within a country.For example:
 Daily cases = 
 VAR __CountryName = 'COVID'[Country]
