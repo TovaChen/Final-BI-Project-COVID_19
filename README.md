@@ -12,6 +12,8 @@ Accessing the Report:
 
 The report is viewable on Microsoft's Power BI where the PBIX is also available for download.
 Inclusion of these data sources enables a number of informative calculations, such as Daily Cases, Dayly Deaths and the Number of Hospital Beds within a country.
+![image](https://user-images.githubusercontent.com/90701842/141802761-04309a46-2d85-43d9-88e3-5eeaa8f8a701.png)
+
 
 Refreshing the PBIX:
 
