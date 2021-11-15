@@ -49,10 +49,8 @@ This model is intended for planning treatment of confirmed cases. Underlying ass
 
 Links to data sources:
 
-https://github.com/CSSEGISandData/COVID-19/tree/master/
-
-https://github.com/owid/covid-19-data/tree/master/public/data
-
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
 https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/11-07-2021.csv
 
 Thanks:
