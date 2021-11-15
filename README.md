@@ -10,9 +10,12 @@ This report, Covid-19-BI-Project is published on a daily basis. It relies entire
 
 Accessing the Report:
 
-The report is viewable on Microsoft's Power BI where the PBIX is also available for download.
+The report is viewable on Microsoft's Power BI where the PBIX is also available for download. For example herewith the Country page picture.
 ![image](https://user-images.githubusercontent.com/90701842/141803298-078a3725-37b7-419c-a382-8fec1368ba03.png)
-Inclusion of these data sources enables a number of informative calculations, such as Daily Cases, Dayly Deaths and the Number of Hospital Beds within a country.For example:
+
+Inclusion of these data sources enables a number of informative calculations, such as Daily Cases, Dayly Deaths and the Number of Hospital Beds within a country.
+For example:
+
 Daily cases = 
 VAR __CountryName = 'COVID'[Country]
 VAR __State = 'COVID'[State]
