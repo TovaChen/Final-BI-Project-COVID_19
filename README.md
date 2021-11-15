@@ -43,7 +43,7 @@ All the tables require refresh. They are accessed using the 'Web' connector and 
 
 Prediction Model:
 
-The Prediction model predicts Confirmed Cases at the date level. The model is similar to the one published by Kaggle (https://www.kaggle.com/therealcyberlord/coronavirus-covid-19-visualization-prediction).
+The Prediction model predicts Confirmed Cases  and Worldwide Mortality Rate at the date level. The model is similar to the one published by Kaggle (https://www.kaggle.com/therealcyberlord/coronavirus-covid-19-visualization-prediction).
 
 This model is intended for planning treatment of confirmed cases. Underlying assumptions for the model will change over time as more data becomes available.
 
