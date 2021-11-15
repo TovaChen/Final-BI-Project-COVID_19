@@ -14,7 +14,7 @@ The report is viewable on Microsoft's Power BI where the PBIX is also available 
 ![image](https://user-images.githubusercontent.com/90701842/141803298-078a3725-37b7-419c-a382-8fec1368ba03.png)
 
 Inclusion of these data sources enables a number of informative calculations, such as Daily Cases, Dayly Deaths and the Number of Hospital Beds within a country.
-For example:
+For example Daily Cases  calculation:
 
 Daily cases = 
 VAR __CountryName = 'COVID'[Country]
