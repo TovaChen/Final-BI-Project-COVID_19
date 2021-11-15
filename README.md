@@ -18,9 +18,13 @@ For example:
 
 Daily cases = 
 VAR __CountryName = 'COVID'[Country]
+
 VAR __State = 'COVID'[State]
+
 VAR __Yesterday =  DATEADD(COVID[Date],-1,DAY)
+
 VAR __TodaysCases = 'COVID'[Cases]
+
 
 RETURN  __TodaysCases - CALCULATE(
     SUM('COVID'[Cases]) , 
